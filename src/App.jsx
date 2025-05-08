@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      hai nigger
+      hai febby
     </>
   )
 }
