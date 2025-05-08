@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="text-gray-900 text-5xl"></div>
+      hai nigger
     </>
   )
 }
